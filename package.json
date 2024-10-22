@@ -1,5 +1,10 @@
 {
   "name": "calculator-react-native-app",
+  "author": {
+    "name": "DuyDo",
+    "email": "dotranquocduy2000@gmail.com",
+    "url": "https://github.com/dotranquocduy"
+  },
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {
